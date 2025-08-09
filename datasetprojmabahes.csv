@@ -1,0 +1,601 @@
+From_To,FlightNumber,RecentDelays,Airline
+Stockholm_London,10045,[72],"""Swiss Air"""
+Paris_Milan,,[],(Air Italy)
+Brussels_Amsterdam,10065,"[14, 16]",Emirates(7)
+Paris_Stockholm,10075,"[27, 27, 78]",(British Airways. )
+London_Berlin,10085,"[94, 29, 65]","""Turkish Airlines"""
+Amsterdam_Stockholm,,"[34, 55]",<Qatar Airways> (20)
+Berlin_Amsterdam,,"[30, 92, 94]","""Swiss Air"""
+Brussels_Milan,10115,[],<Qatar Airways> (20)
+Amsterdam_Brussels,,"[30, 47]",(Lufthansa) 15
+Budapest_Madrid,10135,[],"""Swiss Air"""
+Berlin_Brussels,10145,"[83, 54, 93]",(British Airways. )
+Rome_Berlin,10155,"[73, 28, 74]",KLM(!)
+Stockholm_Milan,10165,[],<Air France> (12)
+Budapest_Amsterdam,10175,"[68, 40, 14]",(Air Italy)
+Stockholm_Paris,10185,"[73, 94]",Emirates(7)
+Stockholm_Berlin,10195,[76],<Air France> (12)
+London_Brussels,10205,[],"""Swiss Air"""
+Amsterdam_Budapest,10215,[],<Air France> (12)
+Paris_Milan,10225,"[71, 50, 39]",<Air France> (12)
+Budapest_Paris,10235,"[56, 54]",(British Airways. )
+Berlin_Madrid,10245,[53],(British Airways. )
+Amsterdam_Berlin,,[],(Lufthansa) 15
+London_Budapest,10265,"[72, 70]",<Qatar Airways> (20)
+Paris_Berlin,10275,"[100, 34, 52]",(Lufthansa) 15
+Madrid_Budapest,10285,[],KLM(!)
+Milan_Stockholm,10295,[],<Air France> (12)
+Milan_Stockholm,10305,[],(Air Italy)
+Amsterdam_Brussels,10315,[37],12. Air France
+Budapest_Stockholm,,[],<Air France> (12)
+Berlin_Brussels,10335,[],(British Airways. )
+Brussels_London,10345,"[23, 58, 43]",(Lufthansa) 15
+Madrid_London,10355,[],<Air France> (12)
+Stockholm_Brussels,10365,"[76, 44]",<Air France> (12)
+Madrid_London,10375,[21],(Lufthansa) 15
+Milan_Amsterdam,,[],Emirates(7)
+Budapest_Milan,10395,"[93, 60]",<Air France> (12)
+Amsterdam_Budapest,10405,"[94, 49]",12. Air France
+London_Stockholm,10415,[],<Air France> (12)
+Milan_London,,"[74, 72]",(British Airways. )
+Amsterdam_London,10435,"[46, 12, 60]",KLM(!)
+Madrid_Budapest,,[55],(British Airways. )
+Stockholm_Budapest,10455,"[84, 97]",(Lufthansa) 15
+Stockholm_Rome,10465,"[74, 86, 62]",KLM(!)
+Brussels_Milan,10475,[44],(British Airways. )
+Paris_Brussels,10485,[],(Lufthansa) 15
+Budapest_Milan,10495,[42],<Air France> (12)
+Milan_Madrid,10505,"[25, 85, 100]","""Turkish Airlines"""
+Stockholm_Brussels,10515,[23],Emirates(7)
+Madrid_Berlin,10525,"[25, 14]","""Swiss Air"""
+Berlin_Amsterdam,10535,[18],"""Turkish Airlines"""
+Milan_Berlin,,"[28, 50, 49]",KLM(!)
+Madrid_Rome,10555,"[79, 59]",KLM(!)
+Stockholm_Rome,10565,"[19, 13, 78]",<Air France> (12)
+Paris_Brussels,10575,[],<Qatar Airways> (20)
+Madrid_Berlin,10585,[30],KLM(!)
+Milan_Brussels,10595,"[15, 51]",12. Air France
+Budapest_Amsterdam,10605,"[32, 40]",<Qatar Airways> (20)
+Brussels_Budapest,,[],"""Turkish Airlines"""
+Stockholm_London,10625,[],"""Swiss Air"""
+Amsterdam_Brussels,10635,[],(British Airways. )
+Stockholm_London,10645,[],12. Air France
+Amsterdam_Paris,10655,"[56, 97, 19]",(British Airways. )
+Amsterdam_Milan,10665,[46],Emirates(7)
+Rome_Stockholm,10675,"[17, 59, 18]",<Qatar Airways> (20)
+Budapest_Amsterdam,10685,[],"""Turkish Airlines"""
+Budapest_Berlin,,"[40, 35]",<Qatar Airways> (20)
+Milan_Amsterdam,10705,"[66, 41, 86]",<Air France> (12)
+Amsterdam_London,10715,[],(Air Italy)
+Milan_Berlin,10725,[43],<Qatar Airways> (20)
+Stockholm_Brussels,10735,[],<Air France> (12)
+Budapest_Madrid,10745,[16],KLM(!)
+Brussels_Paris,,[],<Qatar Airways> (20)
+Brussels_Paris,10765,"[66, 41]",<Air France> (12)
+Berlin_Madrid,10775,"[55, 41, 53]",(British Airways. )
+Berlin_Madrid,10785,"[25, 67, 98]",12. Air France
+London_Stockholm,10795,"[78, 46]",<Qatar Airways> (20)
+Rome_Paris,10805,[],(Air Italy)
+London_Madrid,10815,[23],KLM(!)
+Milan_Stockholm,10825,"[69, 41, 87]",Emirates(7)
+Rome_Amsterdam,10835,[],Emirates(7)
+Brussels_Paris,10845,[],KLM(!)
+Stockholm_Rome,,"[31, 30]",<Air France> (12)
+Berlin_Paris,10865,"[12, 73]",(Air Italy)
+Paris_Stockholm,,"[49, 56]",Emirates(7)
+Brussels_Milan,10885,"[62, 25, 78]","""Swiss Air"""
+Budapest_London,,[],<Qatar Airways> (20)
+Madrid_Budapest,10905,"[36, 96, 35]",<Qatar Airways> (20)
+Budapest_Brussels,10915,[],<Air France> (12)
+Budapest_Stockholm,10925,[],(British Airways. )
+Brussels_Berlin,,[],<Air France> (12)
+Budapest_Berlin,10945,[39],<Qatar Airways> (20)
+Berlin_Amsterdam,,[24],KLM(!)
+Paris_Stockholm,10965,[],<Qatar Airways> (20)
+Paris_Rome,10975,"[15, 72]",(British Airways. )
+Berlin_Madrid,10985,[],"""Turkish Airlines"""
+Amsterdam_London,10995,[48],KLM(!)
+Stockholm_Milan,11005,[],(Air Italy)
+Rome_London,,[28],"""Turkish Airlines"""
+Amsterdam_Budapest,11025,[16],(Lufthansa) 15
+Stockholm_Budapest,11035,"[68, 52, 66]","""Turkish Airlines"""
+Budapest_Brussels,11045,[50],(British Airways. )
+London_Paris,11055,"[80, 41]",<Qatar Airways> (20)
+Berlin_London,,"[85, 99, 68]",KLM(!)
+Budapest_Milan,11075,"[10, 94, 20]",<Air France> (12)
+London_Budapest,11085,[],Emirates(7)
+Paris_Budapest,11095,[90],KLM(!)
+Rome_Budapest,11105,[],12. Air France
+Paris_Rome,11115,"[80, 39, 91]",<Air France> (12)
+Brussels_Budapest,11125,[12],<Air France> (12)
+Budapest_Brussels,11135,[],Emirates(7)
+Stockholm_Milan,,[],Emirates(7)
+London_Amsterdam,11155,[],(Lufthansa) 15
+Madrid_Stockholm,11165,[],12. Air France
+Madrid_Brussels,11175,[63],(Air Italy)
+Madrid_Budapest,11185,"[46, 59]",(British Airways. )
+Brussels_Stockholm,11195,"[65, 96, 29]",(British Airways. )
+Rome_Amsterdam,11205,[],(Air Italy)
+Budapest_Paris,11215,"[62, 84]",12. Air France
+Paris_Stockholm,11225,"[95, 48, 96]",<Air France> (12)
+Berlin_London,11235,[74],(Lufthansa) 15
+Paris_Amsterdam,11245,"[42, 21]",12. Air France
+London_Rome,11255,[33],<Qatar Airways> (20)
+Budapest_Berlin,11265,[41],(Air Italy)
+Amsterdam_Berlin,11275,"[94, 42]",<Air France> (12)
+London_Rome,,"[29, 61]","""Turkish Airlines"""
+Budapest_Brussels,11295,"[13, 87]",12. Air France
+Milan_Rome,11305,"[80, 56, 45]",(Air Italy)
+Amsterdam_Rome,11315,[],"""Swiss Air"""
+Madrid_Rome,11325,"[87, 69, 28]",(Lufthansa) 15
+Rome_Amsterdam,11335,[61],"""Turkish Airlines"""
+Brussels_Madrid,11345,[],(Air Italy)
+Brussels_Amsterdam,11355,"[19, 91, 61]","""Turkish Airlines"""
+Berlin_London,11365,"[78, 16, 59]",Emirates(7)
+Madrid_Rome,11375,[14],(Lufthansa) 15
+Budapest_Berlin,11385,"[87, 28]","""Swiss Air"""
+Paris_Milan,,"[43, 35]","""Turkish Airlines"""
+Madrid_Milan,11405,[],<Qatar Airways> (20)
+Paris_Stockholm,11415,"[73, 98, 44]",(Lufthansa) 15
+Paris_Milan,11425,[],12. Air France
+London_Rome,11435,"[71, 60]",<Qatar Airways> (20)
+Milan_Amsterdam,11445,[],(Lufthansa) 15
+Stockholm_Berlin,11455,[66],"""Turkish Airlines"""
+London_Madrid,11465,"[37, 37]",Emirates(7)
+Budapest_Brussels,,[],12. Air France
+Rome_Milan,11485,"[86, 43]",<Qatar Airways> (20)
+Milan_Brussels,11495,[70],(British Airways. )
+Budapest_Amsterdam,11505,"[87, 73, 68]",(British Airways. )
+Berlin_Amsterdam,11515,[],(British Airways. )
+Stockholm_Milan,11525,"[39, 32, 30]",KLM(!)
+Paris_Rome,,[86],KLM(!)
+Amsterdam_Rome,11545,[],KLM(!)
+Paris_Budapest,11555,"[30, 37, 70]","""Swiss Air"""
+Stockholm_Madrid,11565,[53],"""Swiss Air"""
+Brussels_Stockholm,11575,"[24, 48]","""Turkish Airlines"""
+Milan_Brussels,11585,"[34, 46]",12. Air France
+Paris_Milan,11595,[70],KLM(!)
+Berlin_Amsterdam,,"[12, 82, 82]",(Air Italy)
+Amsterdam_Rome,,[],12. Air France
+Amsterdam_Berlin,11625,"[86, 37]","""Swiss Air"""
+Brussels_Rome,11635,[],KLM(!)
+Milan_Berlin,11645,[],(Lufthansa) 15
+Rome_Paris,,"[29, 52, 11]",<Air France> (12)
+London_Paris,11665,[],(Air Italy)
+Amsterdam_Budapest,11675,[],"""Swiss Air"""
+Brussels_Paris,,[55],Emirates(7)
+Stockholm_Madrid,11695,[33],(Air Italy)
+Madrid_Brussels,,"[53, 87]",12. Air France
+London_Brussels,11715,"[63, 84]","""Swiss Air"""
+Amsterdam_Budapest,,"[22, 22, 20]","""Turkish Airlines"""
+Brussels_Stockholm,11735,"[47, 66, 14]","""Swiss Air"""
+Stockholm_Milan,11745,[],(Lufthansa) 15
+Madrid_London,,"[43, 43, 20]",(British Airways. )
+Brussels_Budapest,11765,[60],<Qatar Airways> (20)
+London_Berlin,,"[16, 42, 91]",12. Air France
+Madrid_Paris,11785,"[78, 50]","""Turkish Airlines"""
+Milan_Berlin,11795,"[67, 48, 86]","""Turkish Airlines"""
+Amsterdam_Budapest,,"[48, 75]",<Air France> (12)
+Amsterdam_Milan,11815,"[44, 60, 67]",Emirates(7)
+Milan_Berlin,,"[57, 46]",KLM(!)
+Stockholm_Paris,11835,[95],12. Air France
+Berlin_London,11845,"[51, 13]","""Swiss Air"""
+Paris_Brussels,11855,"[49, 95]",(British Airways. )
+Rome_Amsterdam,11865,[],"""Swiss Air"""
+Madrid_Milan,11875,[],KLM(!)
+London_Madrid,11885,[],<Air France> (12)
+Stockholm_Budapest,11895,[52],(British Airways. )
+Amsterdam_Milan,,[],Emirates(7)
+Brussels_Milan,,[],(Lufthansa) 15
+Brussels_Rome,11925,[],(Lufthansa) 15
+Rome_Berlin,11935,[],"""Swiss Air"""
+Madrid_London,,[76],(Lufthansa) 15
+Budapest_Berlin,,"[48, 97]",(Lufthansa) 15
+Brussels_Milan,11965,"[88, 17]",Emirates(7)
+Rome_Budapest,11975,[82],<Air France> (12)
+London_Madrid,11985,"[56, 75, 74]",Emirates(7)
+Milan_Berlin,11995,"[72, 72, 79]",(Lufthansa) 15
+Rome_Paris,12005,"[83, 18]",<Air France> (12)
+Madrid_London,12015,[98],"""Turkish Airlines"""
+Amsterdam_Rome,12025,"[75, 76, 40]",<Qatar Airways> (20)
+Berlin_Milan,,[],(Air Italy)
+Madrid_Budapest,12045,[],(Air Italy)
+Stockholm_Milan,12055,"[72, 67, 74]",(Lufthansa) 15
+Berlin_Budapest,12065,[],(British Airways. )
+Amsterdam_Rome,12075,"[64, 33]",(Air Italy)
+Amsterdam_Paris,12085,[],12. Air France
+London_Amsterdam,12095,"[82, 44]",(Air Italy)
+Madrid_Berlin,12105,"[67, 56]",(Lufthansa) 15
+Madrid_Berlin,12115,"[64, 23, 87]","""Swiss Air"""
+Stockholm_London,12125,[67],<Air France> (12)
+Amsterdam_Rome,12135,[],KLM(!)
+Amsterdam_London,,"[67, 96, 81]",(Lufthansa) 15
+Amsterdam_Brussels,12155,"[22, 48, 93]",12. Air France
+Paris_Budapest,,"[53, 100, 64]",<Qatar Airways> (20)
+Paris_Madrid,12175,[30],Emirates(7)
+Brussels_Stockholm,12185,"[16, 45]","""Swiss Air"""
+Madrid_London,12195,"[14, 51]",<Qatar Airways> (20)
+London_Amsterdam,12205,[],"""Swiss Air"""
+Budapest_Stockholm,12215,"[27, 42, 18]","""Turkish Airlines"""
+Madrid_Amsterdam,12225,[49],12. Air France
+Paris_London,12235,[48],Emirates(7)
+Brussels_Madrid,12245,"[88, 34]",<Air France> (12)
+Amsterdam_Budapest,12255,[51],"""Swiss Air"""
+Budapest_Berlin,12265,"[65, 11, 68]",<Air France> (12)
+Rome_Brussels,12275,[55],KLM(!)
+Budapest_Stockholm,12285,[],KLM(!)
+Madrid_Berlin,12295,"[77, 95, 20]","""Swiss Air"""
+Madrid_Amsterdam,12305,"[63, 58]","""Turkish Airlines"""
+Berlin_Milan,12315,"[55, 54]","""Turkish Airlines"""
+Amsterdam_London,,"[100, 51]",12. Air France
+Budapest_Madrid,,"[44, 25]","""Turkish Airlines"""
+London_Berlin,,"[60, 15]",<Qatar Airways> (20)
+London_Madrid,12355,"[89, 100]",(Lufthansa) 15
+Amsterdam_Milan,,"[44, 43]",(British Airways. )
+Stockholm_Rome,12375,"[56, 55, 25]",(Lufthansa) 15
+Berlin_Budapest,12385,[29],(Lufthansa) 15
+Milan_Brussels,,[],"""Turkish Airlines"""
+Amsterdam_Brussels,12405,[],<Qatar Airways> (20)
+Stockholm_Budapest,12415,[],<Air France> (12)
+Stockholm_Berlin,12425,[69],<Air France> (12)
+Budapest_Stockholm,12435,[],(Lufthansa) 15
+Rome_Berlin,12445,"[97, 64, 37]",(British Airways. )
+Paris_Madrid,12455,[],(Lufthansa) 15
+Madrid_Stockholm,12465,"[73, 61, 99]",(Lufthansa) 15
+Amsterdam_Stockholm,12475,"[45, 34]","""Turkish Airlines"""
+Rome_Madrid,12485,"[59, 96, 84]",<Air France> (12)
+Rome_Amsterdam,12495,[38],"""Swiss Air"""
+Stockholm_Budapest,12505,[],"""Turkish Airlines"""
+Paris_Brussels,12515,[],12. Air France
+Paris_Amsterdam,12525,[],KLM(!)
+London_Rome,,"[87, 49]",(British Airways. )
+Brussels_Milan,12545,[],<Qatar Airways> (20)
+London_Berlin,12555,"[94, 60, 31]",Emirates(7)
+Budapest_Berlin,,[29],<Qatar Airways> (20)
+Paris_Berlin,,"[30, 11, 41]",<Air France> (12)
+Madrid_Amsterdam,,"[73, 98]",(Air Italy)
+Madrid_Milan,12595,[],"""Swiss Air"""
+Paris_London,12605,[98],<Qatar Airways> (20)
+Berlin_Brussels,12615,[],"""Turkish Airlines"""
+Amsterdam_Paris,12625,"[60, 99]",Emirates(7)
+Budapest_Berlin,12635,[],(Lufthansa) 15
+London_Stockholm,12645,"[54, 96]",12. Air France
+Amsterdam_Rome,12655,"[56, 80, 48]",12. Air France
+London_Budapest,12665,"[40, 19]",(British Airways. )
+Stockholm_Amsterdam,12675,[86],<Qatar Airways> (20)
+Madrid_Amsterdam,12685,"[79, 15, 94]",KLM(!)
+Paris_Rome,,[],"""Turkish Airlines"""
+Berlin_Rome,12705,[],<Qatar Airways> (20)
+Madrid_Paris,12715,"[21, 85, 31]",(Air Italy)
+Milan_Madrid,12725,[84],(British Airways. )
+Budapest_Amsterdam,12735,"[30, 50]",KLM(!)
+London_Rome,12745,[20],(British Airways. )
+Stockholm_Madrid,12755,[25],(Lufthansa) 15
+Budapest_Rome,12765,[67],Emirates(7)
+London_Paris,12775,"[30, 52]",<Air France> (12)
+Amsterdam_Budapest,12785,"[52, 31, 12]","""Turkish Airlines"""
+Paris_Berlin,12795,"[11, 17]",<Air France> (12)
+Madrid_Amsterdam,12805,[],<Air France> (12)
+Amsterdam_Rome,12815,[],KLM(!)
+Paris_Milan,,[],"""Turkish Airlines"""
+Paris_Milan,12835,[],(Lufthansa) 15
+London_Rome,12845,"[72, 16, 66]",(Lufthansa) 15
+Paris_Brussels,12855,"[54, 57, 43]","""Turkish Airlines"""
+Brussels_London,12865,"[16, 58]",(British Airways. )
+Brussels_Milan,,[],"""Turkish Airlines"""
+Berlin_Rome,12885,[29],<Air France> (12)
+Paris_Rome,,"[85, 93]",12. Air France
+Brussels_Stockholm,12905,"[65, 52, 33]",12. Air France
+Amsterdam_Paris,,"[43, 49]",(Lufthansa) 15
+Rome_Milan,12925,[],KLM(!)
+Berlin_Brussels,12935,[53],KLM(!)
+Berlin_London,,[72],<Qatar Airways> (20)
+Stockholm_Rome,,"[30, 85, 53]",<Qatar Airways> (20)
+Stockholm_Brussels,12965,[67],"""Swiss Air"""
+Amsterdam_Paris,12975,"[71, 63]",<Air France> (12)
+Milan_Brussels,12985,[],12. Air France
+Paris_Rome,12995,[49],(British Airways. )
+Paris_Brussels,13005,"[33, 39, 57]",12. Air France
+Rome_Milan,13015,[13],12. Air France
+London_Paris,13025,[],<Air France> (12)
+Brussels_Rome,13035,"[51, 75]",KLM(!)
+Rome_Amsterdam,13045,"[34, 61]",(Air Italy)
+Budapest_Madrid,13055,"[18, 57]",12. Air France
+Paris_Stockholm,13065,[47],(British Airways. )
+Paris_Milan,13075,[99],"""Turkish Airlines"""
+Budapest_Rome,,"[77, 98]",12. Air France
+Paris_London,13095,"[68, 96, 26]","""Turkish Airlines"""
+Berlin_Budapest,13105,[],(Air Italy)
+Milan_Paris,13115,"[70, 64]",<Air France> (12)
+London_Berlin,13125,"[99, 22]","""Turkish Airlines"""
+London_Amsterdam,13135,"[78, 57, 11]",KLM(!)
+Rome_Paris,13145,[94],(Lufthansa) 15
+Amsterdam_Budapest,,[],<Qatar Airways> (20)
+Madrid_Amsterdam,13165,[],<Qatar Airways> (20)
+Stockholm_London,13175,[],<Qatar Airways> (20)
+Berlin_Stockholm,,[],12. Air France
+Brussels_Berlin,13195,"[18, 74]","""Turkish Airlines"""
+London_Stockholm,13205,"[85, 61, 46]",(Air Italy)
+Madrid_Milan,13215,"[25, 97]",KLM(!)
+Madrid_Paris,13225,[],Emirates(7)
+Milan_Paris,13235,[],<Air France> (12)
+Rome_Milan,13245,"[48, 93, 93]",(Lufthansa) 15
+Paris_Budapest,13255,[77],(British Airways. )
+London_Rome,,"[78, 11, 100]","""Swiss Air"""
+Milan_Budapest,13275,"[74, 85]","""Turkish Airlines"""
+Budapest_Berlin,13285,[57],12. Air France
+Milan_Brussels,13295,"[26, 44, 65]",<Air France> (12)
+Rome_Amsterdam,13305,[],(British Airways. )
+Stockholm_Brussels,13315,[],<Air France> (12)
+Berlin_Paris,13325,"[31, 95]",(Air Italy)
+Madrid_Paris,13335,"[41, 52, 22]",<Qatar Airways> (20)
+Milan_Paris,13345,"[30, 87]",12. Air France
+Madrid_Stockholm,,"[49, 62]","""Turkish Airlines"""
+Stockholm_Paris,13365,[],KLM(!)
+Amsterdam_Berlin,13375,[],12. Air France
+Brussels_London,13385,[],"""Swiss Air"""
+London_Amsterdam,13395,[37],<Qatar Airways> (20)
+Madrid_Amsterdam,,"[71, 80]","""Swiss Air"""
+Berlin_Budapest,13415,"[84, 90]",<Air France> (12)
+Amsterdam_Madrid,13425,[],(Air Italy)
+Budapest_Rome,,"[57, 13]",<Air France> (12)
+Stockholm_Rome,13445,"[93, 71, 92]",(British Airways. )
+Berlin_Amsterdam,,"[56, 68, 52]",(British Airways. )
+Amsterdam_Berlin,,"[87, 24]",(British Airways. )
+Milan_Brussels,13475,[],<Qatar Airways> (20)
+Paris_Milan,13485,"[35, 89]",<Air France> (12)
+Brussels_Milan,13495,[73],12. Air France
+Brussels_Budapest,13505,[],(Air Italy)
+Berlin_Rome,13515,[],<Qatar Airways> (20)
+Madrid_Rome,,"[38, 11]",<Qatar Airways> (20)
+Budapest_Madrid,13535,"[78, 38]",(British Airways. )
+Madrid_Berlin,13545,[59],(Lufthansa) 15
+Stockholm_Budapest,,"[56, 100]",12. Air France
+Madrid_London,13565,[29],KLM(!)
+Brussels_Milan,13575,"[12, 59]",12. Air France
+Brussels_Milan,,"[76, 13, 33]","""Turkish Airlines"""
+Rome_Madrid,13595,[],<Qatar Airways> (20)
+Rome_Milan,13605,[71],KLM(!)
+Rome_Budapest,13615,[],<Air France> (12)
+Paris_Budapest,13625,"[61, 88]",(Lufthansa) 15
+Paris_Amsterdam,13635,[63],<Air France> (12)
+Stockholm_Madrid,13645,[31],<Qatar Airways> (20)
+Rome_Brussels,13655,"[38, 40]",(British Airways. )
+Milan_Madrid,13665,[61],(Air Italy)
+Berlin_Paris,13675,"[43, 80, 34]",<Air France> (12)
+Rome_Amsterdam,,"[55, 16]",KLM(!)
+Budapest_Rome,13695,[],(Lufthansa) 15
+Stockholm_Berlin,13705,[],(British Airways. )
+Berlin_Madrid,13715,"[76, 22]",Emirates(7)
+Madrid_Budapest,13725,[88],(Air Italy)
+Milan_Brussels,,"[70, 16, 50]",<Air France> (12)
+Milan_Berlin,13745,"[34, 58, 33]",Emirates(7)
+Brussels_Milan,13755,"[14, 16]",(Lufthansa) 15
+Budapest_Paris,,[],Emirates(7)
+Rome_Paris,,[29],(British Airways. )
+Berlin_Madrid,,"[93, 53, 74]",(British Airways. )
+Brussels_Stockholm,13795,[34],<Air France> (12)
+Brussels_Stockholm,13805,[],(Lufthansa) 15
+Budapest_Rome,13815,[],"""Swiss Air"""
+Paris_Budapest,13825,[],Emirates(7)
+Amsterdam_London,13835,"[15, 27]",12. Air France
+Madrid_Budapest,13845,[],(Lufthansa) 15
+London_Madrid,13855,[],<Qatar Airways> (20)
+Paris_Budapest,13865,[],"""Turkish Airlines"""
+Berlin_Madrid,,[42],"""Turkish Airlines"""
+Rome_Madrid,13885,[],(Lufthansa) 15
+Budapest_Madrid,13895,"[67, 98, 25]",<Qatar Airways> (20)
+Brussels_Budapest,13905,"[44, 63, 51]",KLM(!)
+Berlin_Milan,13915,[],<Qatar Airways> (20)
+London_Paris,13925,"[65, 12]",<Qatar Airways> (20)
+Amsterdam_Madrid,13935,"[40, 38]",12. Air France
+Madrid_Rome,13945,"[76, 45]",Emirates(7)
+Milan_Amsterdam,13955,[96],(Air Italy)
+Berlin_Brussels,13965,"[45, 71]",(Lufthansa) 15
+Rome_Stockholm,13975,"[30, 71]",<Air France> (12)
+Amsterdam_Budapest,13985,[],<Air France> (12)
+Paris_Milan,13995,"[97, 81, 64]","""Swiss Air"""
+Berlin_Paris,14005,"[45, 52]",(British Airways. )
+Rome_Stockholm,,[],12. Air France
+Paris_Madrid,,"[14, 57]",(British Airways. )
+Berlin_London,14035,"[94, 95, 100]","""Swiss Air"""
+Rome_Milan,14045,[],KLM(!)
+Paris_Stockholm,14055,"[53, 75, 63]",<Qatar Airways> (20)
+Amsterdam_Paris,,"[66, 11]",KLM(!)
+Amsterdam_Paris,14075,[10],Emirates(7)
+Rome_Madrid,14085,"[51, 60]",KLM(!)
+Rome_London,,"[22, 19]",<Qatar Airways> (20)
+Brussels_Milan,14105,[],"""Turkish Airlines"""
+Rome_Brussels,14115,[],<Qatar Airways> (20)
+Paris_Rome,14125,"[42, 50, 46]",<Air France> (12)
+Stockholm_Milan,14135,"[11, 83, 16]",(British Airways. )
+Berlin_Brussels,,"[100, 32]","""Swiss Air"""
+Rome_London,14155,"[34, 89, 42]",12. Air France
+Rome_Budapest,,"[76, 17, 30]",<Air France> (12)
+Madrid_Budapest,14175,[89],<Qatar Airways> (20)
+Stockholm_Brussels,14185,[56],Emirates(7)
+Madrid_Rome,14195,[12],Emirates(7)
+Paris_Stockholm,,"[94, 39, 21]",(Lufthansa) 15
+London_Budapest,,"[15, 97]","""Turkish Airlines"""
+Paris_Berlin,14225,"[37, 80, 98]",Emirates(7)
+Budapest_Brussels,14235,[],"""Turkish Airlines"""
+Amsterdam_London,,"[36, 79, 42]",(British Airways. )
+Brussels_Rome,14255,[74],Emirates(7)
+Rome_Budapest,14265,[53],(Lufthansa) 15
+London_Brussels,14275,[79],(British Airways. )
+Budapest_London,14285,"[47, 32]",KLM(!)
+Stockholm_Berlin,14295,"[85, 96]",12. Air France
+Budapest_London,14305,"[50, 76, 61]",<Air France> (12)
+Brussels_Budapest,14315,[],(Air Italy)
+London_Milan,,[],(Air Italy)
+Milan_Rome,14335,[],12. Air France
+Rome_Berlin,14345,[70],<Air France> (12)
+Milan_Brussels,14355,[],12. Air France
+Madrid_London,14365,[],<Air France> (12)
+London_Brussels,14375,[54],(Air Italy)
+Brussels_Amsterdam,14385,"[96, 86]",<Qatar Airways> (20)
+Madrid_Rome,14395,"[80, 31]",(Air Italy)
+Amsterdam_Rome,14405,[],KLM(!)
+Berlin_Milan,14415,"[22, 81, 85]",12. Air France
+Amsterdam_Budapest,14425,[43],(Lufthansa) 15
+Rome_Stockholm,14435,[],<Qatar Airways> (20)
+Milan_Paris,,"[29, 53]",<Air France> (12)
+Berlin_Paris,14455,[],(Lufthansa) 15
+Madrid_Paris,,"[100, 81, 79]",Emirates(7)
+Madrid_Stockholm,14475,[],"""Swiss Air"""
+Stockholm_Brussels,14485,"[35, 14, 46]",(Air Italy)
+Brussels_Madrid,14495,[73],(Air Italy)
+London_Rome,14505,"[73, 33, 35]",KLM(!)
+Stockholm_Milan,14515,"[79, 12, 87]",(Lufthansa) 15
+Rome_Budapest,14525,[],<Air France> (12)
+Milan_Rome,14535,[],(Air Italy)
+London_Paris,14545,[31],"""Turkish Airlines"""
+Budapest_London,,"[13, 82]",KLM(!)
+London_Amsterdam,,"[30, 27, 55]",(Lufthansa) 15
+Amsterdam_Madrid,,"[36, 61, 60]",(British Airways. )
+Amsterdam_London,,[51],"""Turkish Airlines"""
+Amsterdam_Stockholm,14595,"[16, 17, 48]",<Qatar Airways> (20)
+Madrid_London,14605,[67],<Air France> (12)
+Rome_Amsterdam,,"[88, 16, 73]",<Air France> (12)
+Berlin_Rome,,"[89, 60, 34]",<Air France> (12)
+Milan_Brussels,14635,"[70, 51]",KLM(!)
+Madrid_Amsterdam,14645,"[79, 19]",<Qatar Airways> (20)
+Budapest_Stockholm,14655,[35],(Air Italy)
+Milan_Brussels,,"[55, 44, 82]",(Air Italy)
+Budapest_Amsterdam,14675,[67],(British Airways. )
+Budapest_Rome,14685,"[20, 39]",Emirates(7)
+Rome_Paris,14695,[78],12. Air France
+Rome_Madrid,14705,"[95, 80, 18]","""Turkish Airlines"""
+London_Budapest,14715,[13],12. Air France
+Stockholm_Brussels,14725,"[36, 49]","""Swiss Air"""
+Budapest_London,14735,[45],12. Air France
+Budapest_Paris,,"[34, 18]",12. Air France
+Amsterdam_Rome,14755,[85],"""Turkish Airlines"""
+Brussels_Paris,14765,[82],KLM(!)
+Paris_Brussels,14775,"[83, 39]",12. Air France
+Milan_London,14785,"[83, 18, 39]","""Swiss Air"""
+London_Budapest,14795,"[79, 69]",(British Airways. )
+Berlin_Budapest,14805,"[73, 87]","""Turkish Airlines"""
+Milan_Madrid,14815,[25],(Lufthansa) 15
+London_Berlin,14825,"[25, 34]",<Qatar Airways> (20)
+Rome_Paris,14835,"[91, 50, 31]","""Swiss Air"""
+Rome_Madrid,14845,"[85, 67, 66]",<Air France> (12)
+Rome_Madrid,14855,"[93, 93]",12. Air France
+Madrid_Stockholm,14865,"[12, 62, 94]",KLM(!)
+Amsterdam_London,14875,[],"""Turkish Airlines"""
+Rome_Madrid,14885,[93],KLM(!)
+Budapest_Berlin,14895,[30],(British Airways. )
+Budapest_Brussels,14905,"[60, 74, 13]",KLM(!)
+Brussels_Milan,14915,[10],<Air France> (12)
+Madrid_Berlin,14925,"[61, 45]","""Turkish Airlines"""
+London_Paris,,[97],<Air France> (12)
+Stockholm_Rome,14945,[92],(British Airways. )
+Rome_Amsterdam,14955,[],(Air Italy)
+Brussels_Paris,14965,"[60, 17]",(Air Italy)
+Madrid_Brussels,14975,"[74, 92, 11]","""Swiss Air"""
+London_Berlin,,"[91, 62, 94]",12. Air France
+Budapest_Berlin,14995,"[98, 13, 75]","""Swiss Air"""
+Paris_Amsterdam,15005,[28],(Air Italy)
+Rome_Amsterdam,15015,"[15, 37]",<Air France> (12)
+Rome_Brussels,15025,[],(British Airways. )
+Rome_Berlin,15035,"[72, 73, 43]",KLM(!)
+Brussels_Rome,15045,"[57, 72]",(Lufthansa) 15
+Amsterdam_Budapest,15055,[35],<Qatar Airways> (20)
+Brussels_Stockholm,15065,"[61, 47]",(Air Italy)
+Madrid_Paris,15075,"[29, 44]",(British Airways. )
+London_Rome,15085,"[47, 11]",<Qatar Airways> (20)
+Amsterdam_Budapest,15095,"[31, 49]",(Lufthansa) 15
+Berlin_Milan,15105,"[70, 38]",(British Airways. )
+Milan_Stockholm,,[60],(Lufthansa) 15
+Stockholm_Brussels,15125,"[68, 62, 34]",<Qatar Airways> (20)
+Berlin_Stockholm,15135,[41],(Lufthansa) 15
+Berlin_Amsterdam,,[],12. Air France
+Budapest_London,15155,"[42, 36]",12. Air France
+Milan_Paris,15165,[90],Emirates(7)
+Milan_Amsterdam,15175,"[42, 92, 38]",Emirates(7)
+Budapest_Stockholm,15185,"[20, 100]","""Turkish Airlines"""
+Budapest_Amsterdam,15195,"[47, 58]",<Qatar Airways> (20)
+Berlin_Madrid,15205,[],12. Air France
+Budapest_Madrid,15215,"[92, 19, 81]",12. Air France
+Stockholm_Milan,15225,[41],Emirates(7)
+Stockholm_Milan,15235,"[60, 17, 11]",(Lufthansa) 15
+Rome_Milan,15245,"[73, 84]",Emirates(7)
+Stockholm_Amsterdam,15255,[],(Lufthansa) 15
+Brussels_Amsterdam,15265,"[94, 55, 35]",(Lufthansa) 15
+Madrid_Amsterdam,,[],(Air Italy)
+Stockholm_Berlin,15285,[],(Air Italy)
+Madrid_Amsterdam,,"[19, 10, 24]","""Swiss Air"""
+Stockholm_Brussels,15305,"[98, 95, 48]",12. Air France
+Milan_Stockholm,15315,"[78, 89, 72]",<Qatar Airways> (20)
+Brussels_Madrid,15325,[],<Air France> (12)
+Berlin_London,15335,"[51, 19, 53]",12. Air France
+Berlin_Madrid,15345,"[90, 71]",(Lufthansa) 15
+Milan_Brussels,15355,[],"""Swiss Air"""
+Berlin_Brussels,15365,[],KLM(!)
+Paris_Brussels,15375,[],Emirates(7)
+London_Stockholm,15385,"[10, 18, 93]",(Air Italy)
+Stockholm_Madrid,15395,"[41, 89, 17]",(Air Italy)
+London_Brussels,15405,"[70, 96]",(British Airways. )
+Budapest_London,15415,[],(British Airways. )
+Milan_Stockholm,15425,"[81, 54]",(British Airways. )
+Paris_Madrid,15435,[84],12. Air France
+Brussels_Stockholm,15445,"[35, 94]",(Air Italy)
+Paris_Berlin,15455,[47],"""Swiss Air"""
+Amsterdam_London,15465,"[62, 81, 17]",<Qatar Airways> (20)
+Stockholm_London,15475,[],"""Swiss Air"""
+Madrid_Milan,15485,[22],Emirates(7)
+Paris_London,15495,"[89, 86, 16]",(Air Italy)
+Rome_Budapest,,[49],"""Swiss Air"""
+Paris_Rome,15515,[24],12. Air France
+Budapest_Amsterdam,15525,[],KLM(!)
+Stockholm_Amsterdam,15535,"[10, 82, 75]",(Lufthansa) 15
+Madrid_London,15545,"[92, 46, 64]","""Swiss Air"""
+London_Rome,15555,"[49, 90, 20]",<Qatar Airways> (20)
+Rome_Brussels,15565,"[95, 47, 26]","""Swiss Air"""
+Milan_Brussels,15575,"[17, 32, 57]",(Air Italy)
+Brussels_London,,"[21, 21, 23]",<Qatar Airways> (20)
+Berlin_London,,[],KLM(!)
+Berlin_Paris,,[],"""Turkish Airlines"""
+London_Milan,,[53],<Qatar Airways> (20)
+Madrid_London,15625,"[72, 25, 27]",<Air France> (12)
+Stockholm_Budapest,15635,[],<Air France> (12)
+Budapest_Paris,15645,"[59, 85, 92]",Emirates(7)
+Stockholm_Paris,15655,"[93, 36]",KLM(!)
+Madrid_Amsterdam,15665,"[33, 51, 85]",(Lufthansa) 15
+London_Berlin,15675,[],<Qatar Airways> (20)
+Paris_Stockholm,15685,[11],"""Turkish Airlines"""
+Milan_Rome,15695,"[42, 97, 24]",<Qatar Airways> (20)
+Brussels_Rome,,[86],Emirates(7)
+Paris_London,,"[68, 91, 41]",12. Air France
+Berlin_Rome,15725,"[96, 82]",(Air Italy)
+Milan_Brussels,15735,[],"""Turkish Airlines"""
+Paris_Budapest,15745,"[24, 56, 34]",KLM(!)
+Paris_Milan,15755,[20],<Qatar Airways> (20)
+Budapest_Milan,15765,[],"""Swiss Air"""
+Madrid_Brussels,15775,"[40, 64]",(Air Italy)
+Madrid_Rome,,"[28, 51]",<Air France> (12)
+London_Paris,,[51],"""Turkish Airlines"""
+Paris_Amsterdam,15805,"[33, 61, 12]",Emirates(7)
+Amsterdam_Berlin,15815,[],(British Airways. )
+Brussels_London,15825,[],(British Airways. )
+Stockholm_Brussels,15835,[],(British Airways. )
+Stockholm_Milan,15845,"[18, 24, 99]",(Air Italy)
+Milan_Berlin,,[98],<Air France> (12)
+Milan_Stockholm,15865,"[97, 22, 31]",KLM(!)
+Rome_Budapest,15875,[35],Emirates(7)
+Budapest_Stockholm,15885,"[17, 33, 96]","""Turkish Airlines"""
+Rome_Stockholm,15895,[45],<Air France> (12)
+Milan_London,15905,[],"""Swiss Air"""
+Stockholm_Berlin,15915,"[92, 54, 16]",(British Airways. )
+Budapest_Amsterdam,15925,"[64, 55]",12. Air France
+London_Madrid,,"[72, 90, 98]",(Lufthansa) 15
+Amsterdam_Rome,15945,[],12. Air France
+Brussels_Madrid,15955,[],Emirates(7)
+Amsterdam_London,15965,[],(Lufthansa) 15
+Stockholm_Paris,,[46],<Qatar Airways> (20)
+Madrid_Milan,15985,"[83, 26, 17]",(Lufthansa) 15
+Rome_Stockholm,15995,[47],(British Airways. )
+Berlin_Rome,16005,[100],(British Airways. )
+Stockholm_Berlin,,[],(Lufthansa) 15
+Brussels_Madrid,16025,"[55, 35]",<Qatar Airways> (20)
+Rome_Budapest,16035,"[39, 28]","""Turkish Airlines"""
