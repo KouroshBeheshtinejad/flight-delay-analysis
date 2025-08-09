@@ -5,11 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import StandardScaler
 from ast import literal_eval
-import os
-
-# اطمینان از وجود پوشه images
-if not os.path.exists('images'):
-    os.makedirs('images')
 
 df = pd.read_csv('datasetprojmabahes.csv')
 
