@@ -1,3 +1,4 @@
+![Clustering](https://img.shields.io/badge/Status-Completed-green)
 # Flight Delay Analysis 
 
 This project cleans, analyzes, and visualizes flight data using Python, Pandas, and PCA.
